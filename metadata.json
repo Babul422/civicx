@@ -1,0 +1,11 @@
+{
+  "name": "Community Hero",
+  "description": "A hyperlocal civic issue reporting and resolution platform for Bengaluru.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
